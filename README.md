@@ -6,5 +6,5 @@ chmod +x ./lightsail-compose.sh
 ./lightsail-compose.sh
 
 
-curl -o ./lightsail-compose.sh https://raw.githubusercontent.com/wesayhowhigh/lightsail/master/docker-compose.yml
+curl -o ./docker-compose.sh https://raw.githubusercontent.com/wesayhowhigh/lightsail/master/docker-compose.yml
 ```
